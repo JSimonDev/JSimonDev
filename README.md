@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+Passionate about software development focused on the Front-End.  Learning new technologies and tools to create engaging experiences online :)
+
 Apasionado por el desarrollo de software enfocado en el Front-End. Aprendiendo nuevas tecnologías y herramientas para crear experiencias atractivas en línea :)
 
 
