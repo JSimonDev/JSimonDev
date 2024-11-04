@@ -40,6 +40,7 @@ I'm a software developer passionate about building mobile applications with **Fl
 **📫 Contact**  
 If you're interested in collaborating on a project or just want to chat about tech, feel free to connect with me:
 
+- **Portfolio**: [jsimon.dev](https://jsimon.dev)
 - **Telegram**: [@JSimonDev](https://t.me/JSimonDev)
 - **Twitter**: [@JSimonDev](https://twitter.com/JSimonDev)
 
