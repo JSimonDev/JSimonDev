@@ -23,6 +23,7 @@ If you're interested in collaborating on a project or just want to chat about te
 - **Portfolio**: [jsimon.dev](https://jsimon.dev)
 - **Telegram**: [@JSimonDev](https://t.me/JSimonDev)
 - **Twitter**: [@JSimonDev](https://twitter.com/JSimonDev)
+- **BlueSky**: [@jsimon.dev](https://bsky.app/profile/jsimon.dev)
 
 ---
 
